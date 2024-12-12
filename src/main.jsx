@@ -11,6 +11,7 @@ import Statistics from "./components/Statistics/Statistics";
 import ProductDetails from "./components/ProductDetails/ProductDetails";
 import Dashboard from "./components/Dashboard/Dashboard";
 import ErrorPage from "./components/ErrorPage/ErrorPage";
+import About from "./components/About/About";
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path: "/dashboard",
         element: <Dashboard />,
+      },
+      {
+        path: "/about",
+        element: <About />,
       },
     ],
   },

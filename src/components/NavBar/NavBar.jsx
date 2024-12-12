@@ -19,6 +19,9 @@ const NavBar = () => {
       <NavLink className="px-3 py-2 rounded-lg" to={"/dashboard"}>
         Dashboard
       </NavLink>
+      <NavLink className="px-3 py-2 rounded-lg" to={"/about"}>
+        About
+      </NavLink>
     </>
   );
   return (
