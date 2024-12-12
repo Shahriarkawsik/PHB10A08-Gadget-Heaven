@@ -1,0 +1,410 @@
+[
+  {
+    "product_id": "lpt_4",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.postimg.cc/nrbtkMW3/lenevo-laptop-1.jpg",
+    "category": "laptops",
+    "price": 1290.99,
+    "description": "Business laptop with exceptional durability and performance.",
+    "Specification": [
+      "14-inch display",
+      "Intel i7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "Water-resistant keyboard"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "cam_3",
+    "product_title": "Sony Alpha a6400",
+    "product_image": "https://i.postimg.cc/rmpdkZyB/sony-camera-1.jpg",
+    "category": "cameras",
+    "price": 898.0,
+    "description": "Compact and powerful camera perfect for vlogging and photography.",
+    "Specification": [
+      "24.2MP APS-C sensor",
+      "4K video recording",
+      "Real-time Eye autofocus",
+      "180-degree tilting LCD",
+      "Fast autofocus"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "phn_2",
+    "product_title": "iPhone 13",
+    "product_image": "https://i.postimg.cc/WphSVT31/iphone-1.jpg",
+    "category": "phones",
+    "price": 349.99,
+    "description": "Experience superior performance and sleek design with this model.",
+    "Specification": [
+      "6.7-inch AMOLED display",
+      "256GB storage",
+      "64MP triple camera",
+      "4500mAh battery",
+      "Fast charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "air_5",
+    "product_title": "Anker Soundcore Liberty Air 2 Pro",
+    "product_image": "https://i.postimg.cc/d0Vr9jZV/air-phone-1.jpg",
+    "category": "air pods",
+    "price": 129.99,
+    "description": "Affordable earbuds with strong performance and customizable sound.",
+    "Specification": [
+      "Hybrid active noise cancellation",
+      "Up to 26 hours battery life with case",
+      "IPX4 water resistance",
+      "Customizable sound profiles",
+      "Touch controls"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "phn_5",
+    "product_title": "OnePlus Nord N200",
+    "product_image": "https://i.postimg.cc/pTgjRNGm/One-Plus-1.jpg",
+    "category": "phones",
+    "price": 229.99,
+    "description": "Great battery life and functionality for daily tasks.",
+    "Specification": [
+      "6.3-inch display",
+      "128GB storage",
+      "16MP camera",
+      "6000mAh battery",
+      "Face unlock"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "cam_1",
+    "product_title": "Canon EOS R5",
+    "product_image": "https://i.postimg.cc/zvZy4CvW/canon-1.jpg",
+    "category": "cameras",
+    "price": 859.99,
+    "description": "High-performance mirrorless camera with incredible image quality.",
+    "Specification": [
+      "45MP full-frame sensor",
+      "8K video recording",
+      "ISO 100-51,200",
+      "Dual Pixel autofocus",
+      "In-body image stabilization"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "lpt_2",
+    "product_title": "Apple MacBook Air",
+    "product_image": "https://i.postimg.cc/4N1YFhg7/mac-1.jpg",
+    "category": "laptops",
+    "price": 899.99,
+    "description": "Ultra-thin laptop with impressive performance and battery life.",
+    "Specification": [
+      "13.3-inch Retina display",
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "Fanless design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "cam_6",
+    "product_title": "GoPro HERO10 Black",
+    "product_image": "https://i.postimg.cc/R02hn7c8/GoPro-1.jpg",
+    "category": "cameras",
+    "price": 379.99,
+    "description": "Durable action camera with stunning video quality and stabilization.",
+    "Specification": [
+      "23MP sensor",
+      "5.3K video recording",
+      "HyperSmooth 4.0 stabilization",
+      "Waterproof up to 33ft",
+      "Voice control"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "lpt_5",
+    "product_title": "ASUS ZenBook 14",
+    "product_image": "https://i.postimg.cc/wjGTSXbv/asus-1.jpg",
+    "category": "laptops",
+    "price": 749.99,
+    "description": "Compact and stylish laptop with powerful features.",
+    "Specification": [
+      "14-inch display",
+      "AMD Ryzen 5 processor",
+      "8GB RAM",
+      "512GB SSD",
+      "Lightweight design"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": "air_3",
+    "product_title": "Sony WF-1000XM4",
+    "product_image": "https://i.postimg.cc/3xVYLKd0/earphone-1.jpg",
+    "category": "air pods",
+    "price": 279.99,
+    "description": "Industry-leading noise cancelling with exceptional sound quality.",
+    "Specification": [
+      "Adaptive sound control",
+      "IPX4 water resistance",
+      "Up to 24 hours battery life with case",
+      "Speak-to-chat technology",
+      "DSEE Extreme audio enhancement"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "phn_1",
+    "product_title": "Samsung Galaxy A53",
+    "product_image": "https://i.postimg.cc/mrs6Zqn6/sm-1.jpg",
+    "category": "phones",
+    "price": 299.99,
+    "description": "A powerful smartphone with stunning display and long-lasting battery.",
+    "Specification": [
+      "6.5-inch display",
+      "128GB storage",
+      "48MP camera",
+      "5000mAh battery",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "lpt_1",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.postimg.cc/mktm6Gch/dell-1.jpg",
+    "category": "laptops",
+    "price": 999.99,
+    "description": "Sleek and powerful, ideal for professionals on the go.",
+    "Specification": [
+      "13.4-inch display",
+      "Intel i7 processor",
+      "16GB RAM",
+      "512GB SSD",
+      "Lightweight design"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "air_1",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.postimg.cc/G357T9ND/air-pod.jpg",
+    "category": "air pods",
+    "price": 249.99,
+    "description": "Premium noise-cancelling earbuds with superior sound quality.",
+    "Specification": [
+      "Active noise cancellation",
+      "Transparency mode",
+      "Spatial audio support",
+      "Up to 24 hours battery life with case",
+      "Water and sweat resistant"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "cam_4",
+    "product_title": "Fujifilm X-T4",
+    "product_image": "https://i.postimg.cc/sX0cW0nz/instax.jpg",
+    "category": "cameras",
+    "price": 1699.99,
+    "description": "Stylish and robust camera with impressive image stabilization.",
+    "Specification": [
+      "26.1MP APS-C sensor",
+      "4K video recording",
+      "In-body image stabilization",
+      "ISO 160-12,800",
+      "Weather-resistant body"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "phn_3",
+    "product_title": "Huawei P40 Lite",
+    "product_image": "https://i.postimg.cc/13cbFsDZ/huawei.jpg",
+    "category": "phones",
+    "price": 191.99,
+    "description": "Affordable smartphone with essential features for everyday use.",
+    "Specification": [
+      "6.1-inch display",
+      "64GB storage",
+      "12MP camera",
+      "4000mAh battery",
+      "Dual SIM"
+    ],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": "air_4",
+    "product_title": "Jabra Elite 75t",
+    "product_image": "https://i.postimg.cc/rpV3C39R/jorba.jpg",
+    "category": "air pods",
+    "price": 179.99,
+    "description": "Compact and comfortable earbuds with great sound and call quality.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "Up to 28 hours battery life with case",
+      "IP55 water and dust resistance",
+      "Customizable equalizer",
+      "Multi-device connectivity"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "cam_2",
+    "product_title": "Nikon Z6 II",
+    "product_image": "https://i.postimg.cc/8kJ3HhL4/nikon.jpg",
+    "category": "cameras",
+    "price": 1999.99,
+    "description": "Versatile mirrorless camera ideal for both photography and videography.",
+    "Specification": [
+      "24.5MP full-frame sensor",
+      "4K video recording",
+      "ISO 100-51,200",
+      "273-point autofocus",
+      "Dual card slots"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "lpt_3",
+    "product_title": "HP Pavilion 15",
+    "product_image": "https://i.postimg.cc/sXBnTrGx/hp.jpg",
+    "category": "laptops",
+    "price": 649.99,
+    "description": "Versatile laptop with good performance for everyday tasks.",
+    "Specification": [
+      "15.6-inch display",
+      "Intel i5 processor",
+      "8GB RAM",
+      "512GB SSD",
+      "Backlit keyboard"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "phn_4",
+    "product_title": "Xiaomi Mi 11",
+    "product_image": "https://i.postimg.cc/sf7mxKpk/xiaomi.jpg",
+    "category": "phones",
+    "price": 359.99,
+    "description": "A stylish phone with top-notch camera and performance.",
+    "Specification": [
+      "6.5-inch Super Retina display",
+      "128GB storage",
+      "12MP dual camera",
+      "4500mAh battery",
+      "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "air_2",
+    "product_title": "Samsung Galaxy Buds Pro",
+    "product_image": "https://i.postimg.cc/nhzq41Dc/sm-air.jpg",
+    "category": "air pods",
+    "price": 769.99,
+    "description": "Feature-rich earbuds with excellent sound and active noise cancelling.",
+    "Specification": [
+      "Intelligent active noise cancellation",
+      "360 Audio support",
+      "IPX7 water resistance",
+      "Up to 28 hours battery life with case",
+      "Voice Detect feature"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "lpt_6",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.postimg.cc/1Xsqf0SS/acer.jpg",
+    "category": "laptops",
+    "price": 549.99,
+    "description": "Affordable laptop with decent performance for students.",
+    "Specification": [
+      "15.6-inch display",
+      "Intel i5 processor",
+      "8GB RAM",
+      "256GB SSD",
+      "Fingerprint reader"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "cam_5",
+    "product_title": "Panasonic Lumix GH5",
+    "product_image": "https://i.postimg.cc/Y0rvppNq/panasonic.jpg",
+    "category": "cameras",
+    "price": 1299.99,
+    "description": "Professional mirrorless camera designed for videographers and photographers.",
+    "Specification": [
+      "20.3MP Micro Four Thirds sensor",
+      "4K video recording",
+      "Dual IS 2 stabilization",
+      "High-speed autofocus",
+      "Weather-sealed body"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "air_6",
+    "product_title": "Bose QuietComfort Earbuds",
+    "product_image": "https://i.postimg.cc/Tw9PNz88/bose-pod.jpg",
+    "category": "air pods",
+    "price": 279.0,
+    "description": "Exceptional noise cancelling and sound quality in a comfortable design.",
+    "Specification": [
+      "Active noise cancellation",
+      "Transparency mode",
+      "Up to 24 hours battery life with case",
+      "IPX4 water resistance",
+      "Customizable fit"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "phn_6",
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.postimg.cc/Xv67jj4S/goople-pixel.jpg",
+    "category": "phones",
+    "price": 399.99,
+    "description": "Flagship phone with cutting-edge features and sleek design.",
+    "Specification": [
+      "6.8-inch display",
+      "512GB storage",
+      "108MP camera",
+      "5000mAh battery",
+      "5G support"
+    ],
+    "availability": false,
+    "rating": 4.8
+  }
+]
