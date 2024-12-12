@@ -67,26 +67,30 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end gap-3">
-        <button className="relative w-9 h-9 bg-white flex items-center justify-center border border-color1.15 rounded-full">
-          <AiOutlineShoppingCart className="text-color1 text-xl " />
-          <small
-            className={` font-bold absolute -top-3 right-0 ${
-              pathname === "/" ? "text-white" : "text-color3"
-            }`}
-          >
-            {gadgetCard.length ? gadgetCard.length : ""}
-          </small>
-        </button>
-        <button className="relative w-9 h-9 bg-white flex items-center justify-center border border-color1.15 rounded-full">
-          <BsHeart className="text-color1 text-xl " />
-          <small
-            className={` font-bold absolute -top-3 right-0 ${
-              pathname === "/" ? "text-white" : "text-color3"
-            }`}
-          >
-            {gadgetWishlist.length ? gadgetWishlist.length : ""}
-          </small>
-        </button>
+        <Link to={"/dashboard"}>
+          <button className="relative w-9 h-9 bg-white flex items-center justify-center border border-color1.15 rounded-full">
+            <AiOutlineShoppingCart className="text-color1 text-xl " />
+            <small
+              className={` font-bold absolute -top-3 right-0 ${
+                pathname === "/" ? "text-white" : "text-color3"
+              }`}
+            >
+              {gadgetCard.length ? gadgetCard.length : ""}
+            </small>
+          </button>
+        </Link>
+        <Link to={"/dashboard"}>
+          <button className="relative w-9 h-9 bg-white flex items-center justify-center border border-color1.15 rounded-full">
+            <BsHeart className="text-color1 text-xl " />
+            <small
+              className={` font-bold absolute -top-3 right-0 ${
+                pathname === "/" ? "text-white" : "text-color3"
+              }`}
+            >
+              {gadgetWishlist.length ? gadgetWishlist.length : ""}
+            </small>
+          </button>
+        </Link>
       </div>
     </nav>
   );

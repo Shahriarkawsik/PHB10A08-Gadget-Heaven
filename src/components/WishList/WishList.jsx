@@ -18,7 +18,7 @@ const WishList = () => {
     <>
       {gadgetWishlist.length === 0 ? (
         <h1 className="font-bold text-red-500 lg:text-2xl my-12 text-center">
-          No products added to Wishlist
+          No product is added to Wishlist
         </h1>
       ) : (
         <div className="bg-gray-100 py-12">
@@ -26,10 +26,10 @@ const WishList = () => {
             <h1 className="font-bold text-color1 lg:text-2xl">WishList</h1>
             {/* Gadget */}
             <div className="space-y-5">
-              {gadgetWishlist.map((gadget, product_id) => (
+              {gadgetWishlist.map((gadget) => (
                 <>
                   <div
-                    key={product_id}
+                    key={gadget.product_id}
                     className="bg-white rounded-2xl p-8 grid items-center justify-between grid-cols-1 sm:grid-cols-1 lg:grid-cols-3 gap-5"
                   >
                     <div className="p-3 rounded-xl shadow-md lg:col-span-1">
@@ -45,7 +45,7 @@ const WishList = () => {
                           {gadget?.product_title}
                         </h1>
                         <p className=" text-color2.6 lg:text-18 leading-8 ">
-                          {gadget?.product_title}
+                          {gadget?.description}
                         </p>
                         <p className="font-semibold text-color2.8 lg:text-xl leading-8 ">
                           Price: ${gadget?.price}

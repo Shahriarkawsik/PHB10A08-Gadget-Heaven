@@ -4,7 +4,7 @@ import { useLoaderData, useParams } from "react-router-dom";
 import { FaRegStar, FaStar } from "react-icons/fa";
 import { BsHeart } from "react-icons/bs";
 import { gadgetContext } from "../../AuthContent/AuthContent";
-import Product from "./../Product/Product";
+// import Product from "./../Product/Product";
 import { Alert } from "./../../Alert/Alert";
 
 const ProductDetails = () => {

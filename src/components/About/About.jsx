@@ -9,16 +9,16 @@ const About = () => {
       <h2 className="text-3xl  font-bold text-center text-color1 hover:text-color3">
         About Us
       </h2>
-      <p className="mt-4 text-gray-700">
+      <p className="mt-4 text-gray-700 text-justify">
         Welcome to <strong>Gadget Haven</strong>, where we believe in delivering
         quality products at unbeatable prices. Our goal is to provide a seamless
         shopping experience for all our customers.
       </p>
 
       <div className="mt-6 flex flex-col md:flex-row items-center">
-        <div className="md:w-1/2 mt-6 md:mt-0">
+        <div className="mt-6 md:mt-0">
           <h3 className="text-2xl font-semibold">Our Mission</h3>
-          <p className="mt-2 text-gray-700">
+          <p className="mt-2 text-gray-700 text-justify">
             Our mission is to provide the best shopping experience for our
             customers by offering high-quality products, excellent customer
             service, and a wide variety of choices.

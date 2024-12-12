@@ -1,12 +1,13 @@
-import { useEffect } from "react";
+import { useContext, useEffect } from "react";
 import StatChart from "./StatChart";
+import { gadgetContext } from "../../AuthContent/AuthContent";
 
 const Statistics = () => {
-
+  const { products } = useContext(gadgetContext);
   useEffect(() => {
     document.title = "Statistics | Gadget Heaven";
   }, []);
-  
+
   return (
     <div>
       <div className="bg-color3">
@@ -27,9 +28,15 @@ const Statistics = () => {
           <div className="w-11/12 lg:w-4/5 mx-auto space-y-12">
             <h1 className="font-bold text-color1 lg:text-2xl">Statistics</h1>
             {/* Statistics */}
-            <div className="bg-white rounded-2xl p-8 flex items-center justify-between">
-              <StatChart/>
-            </div>
+            {products === 0 ? (
+              <h1 className="text-color3 text-6xl text-center font-bold">
+                No Data to Show Statistics
+              </h1>
+            ) : (
+              <div className="bg-white rounded-2xl p-8 flex items-center justify-between">
+                <StatChart />
+              </div>
+            )}
           </div>
         </div>
       </div>

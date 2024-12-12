@@ -1,5 +1,6 @@
 import React from "react";
 import bannerImg from "../../assets/banner.jpg";
+import { Link } from "react-router-dom";
 
 const Banner = () => {
   return (
@@ -13,9 +14,14 @@ const Banner = () => {
           Explore the latest gadgets that will take your experience to the next
           level. From smart devices to the coolest accessories, we have it all!
         </p>
-        <button className="font-bold text-xl sm:text-3xl lg:text-xl bg-white text-color3 rounded-full px-8 py-4">
-          Shop Now
-        </button>
+        <div>
+          
+          <Link to="/dashboard">
+            <button className="font-bold text-xl sm:text-3xl lg:text-xl bg-white text-color3 rounded-full px-8 py-4">
+              Shop Now
+            </button>
+          </Link>
+        </div>
       </div>
       {/* Banner Image */}
       <div className="p-2 sm:p-3 lg:p-6 w-11/12 sm:w-10/12 lg:w-11/12 2xl:w-10/12 lg:h-[563px] rounded-[32px]  border-2 sm:border-4 border-white absolute top-[72%] sm:top-[68%] lg:top-[62%] 2xl:top-[60%] left-[4%] sm:left-[9%] lg:left-[4%] 2xl:left-[8%] mx-auto">

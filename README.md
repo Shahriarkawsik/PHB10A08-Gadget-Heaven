@@ -10,7 +10,7 @@ You can access the live website here:
 ## Requirement Document
 
 For detailed project requirements and specifications, refer to the document:  
-[**Project Requirements**](https://github.com/programming-hero-web-course-4/b10a8-gadget-heaven-Shahriarkawsik)
+[**Project Requirements**](https://drive.google.com/file/d/1gmI3oFWHdXmWeqGNSQTmiWau3scD1Eeu/view?usp=sharing)
 
 ## Features of the Website
 
@@ -42,5 +42,3 @@ The following React concepts were implemented in this project:
 ## Data Management
 
 The application uses **Context API** to manage the global state for the shopping cart and wishlist.
-
-

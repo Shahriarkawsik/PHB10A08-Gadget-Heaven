@@ -49,7 +49,7 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <AuthContent>
       <RouterProvider router={router} />
-      <ToastContainer autoClose={1500} />
+      <ToastContainer position="top-center" autoClose={1500} />{" "}
     </AuthContent>
   </StrictMode>
 );
