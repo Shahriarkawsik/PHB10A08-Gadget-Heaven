@@ -106,12 +106,12 @@ The following React concepts were implemented in this project:
 
 The application uses **Context API** to manage the global state for the shopping cart and wishlist.
 
-### Live Website
+## Live Website
 
 You can access the live website here:  
 [**GadgetHaven Live**](https://determined-grandmother.surge.sh)
 
-### Requirement Document
+## Requirement Document
 
 For detailed project requirements and specifications, refer to the document:  
 [**Project Requirements**](https://drive.google.com/file/d/1gmI3oFWHdXmWeqGNSQTmiWau3scD1Eeu/view?usp=sharing)
