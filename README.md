@@ -6,17 +6,17 @@
 
 ### Home-Gadget-Heaven
 
-![Screenshot](https://your-image-url.com/image.png)
+![Screenshot](https://github.com/Shahriarkawsik/PHB10A08-Gadget-Heaven/blob/main/src/assets/screenshot/Statistics-Gadget-Heaven-Home.png)
 
 ### Statistics-Gadget-Heaven
 
-![Screenshot](https://your-image-url.com/image.png)
-![Screenshot](https://your-image-url.com/image.png)
+![Screenshot](https://github.com/Shahriarkawsik/PHB10A08-Gadget-Heaven/blob/main/src/assets/screenshot/Statistics-Gadget-Heaven-p1.png)
+![Screenshot](https://github.com/Shahriarkawsik/PHB10A08-Gadget-Heaven/blob/main/src/assets/screenshot/Statistics-Gadget-Heaven-p2.png)
 
 ### Dashboard-Gadget-Heaven-Dashboard
 
-![Screenshot](https://your-image-url.com/image.png)
-![Screenshot](https://your-image-url.com/image.png)
+![Screenshot](https://github.com/Shahriarkawsik/PHB10A08-Gadget-Heaven/blob/main/src/assets/screenshot/Dashboard-Gadget-Heaven-Dashboard-p1.png)
+![Screenshot](https://github.com/Shahriarkawsik/PHB10A08-Gadget-Heaven/blob/main/src/assets/screenshot/Dashboard-Gadget-Heaven-Dashboard-p2.png)
 
 ## 🛠 Technologies Used
 
@@ -106,12 +106,12 @@ The following React concepts were implemented in this project:
 
 The application uses **Context API** to manage the global state for the shopping cart and wishlist.
 
-## Live Website
+### Live Website
 
 You can access the live website here:  
 [**GadgetHaven Live**](https://determined-grandmother.surge.sh)
 
-## Requirement Document
+### Requirement Document
 
 For detailed project requirements and specifications, refer to the document:  
 [**Project Requirements**](https://drive.google.com/file/d/1gmI3oFWHdXmWeqGNSQTmiWau3scD1Eeu/view?usp=sharing)
